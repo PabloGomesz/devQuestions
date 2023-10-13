@@ -1,7 +1,7 @@
 <h1 align="center"> DevQuestions</h1>
 
 <p align="center">
-Programa desenvolvido por PabloGomesz com o intuito de botar em pratica meus conhecimentos em node<br/>
+Programa desenvolvido por PabloGomesz com o intuito de botar em pratica meus conhecimentos em NodeJS e Express<br/>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@ Programa desenvolvido por PabloGomesz com o intuito de botar em pratica meus con
 <br>
 
 <p align="center">
-  <img alt="projeto devQuestions" src="public/img/imagemDev.PNG width:100%">
+  <img alt="projeto devQuestions" src="/img/imagemDev.PNG width:100%">
 </p>
 
 ## 🚀 Tecnologias
