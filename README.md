@@ -11,7 +11,7 @@ Programa desenvolvido por PabloGomesz com o intuito de botar em pratica meus con
 <br>
 
 <p align="center">
-  <img alt="projeto devQuestions" src="/img/imageDev.PNG" width=100%">
+  <img alt="projeto devQuestions" src="./img/imageDev.PNG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
